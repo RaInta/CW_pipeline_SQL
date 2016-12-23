@@ -1,0 +1,22 @@
+<?xml version='1.0' standalone='yes'?>
+<upper_limit_bands>
+  <upper_limit_band>
+    <band>1.0</band>
+    <freq>879.902</freq>
+    <job>0</job>
+    <loudest_nonvetoed_template>
+      <alpha>2.28445702189</alpha>
+      <cover_band>0.00873446968148528</cover_band>
+      <cover_freq>880.686534933341</cover_freq>
+      <delta>-0.828541000811</delta>
+      <f1dot>-6.174348315395452e-09</f1dot>
+      <f2dot>3.7442335578195e-18</f2dot>
+      <f3dot>0</f3dot>
+      <freq>880.6943466774429</freq>
+      <log10BSGL>1.32650638</log10BSGL>
+      <twoF>54.0773239</twoF>
+      <twoFH1>50.7411232</twoFH1>
+      <twoFL1>8.48472309</twoFL1>
+    </loudest_nonvetoed_template>
+  </upper_limit_band>
+</upper_limit_bands>

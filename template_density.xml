@@ -1,0 +1,13 @@
+<?xml version='1.0' standalone='yes'?>
+<densities>
+  <point>
+    <band>1.0</band>
+    <density>16151042100</density>
+    <freq>879.902</freq>
+  </point>
+  <point>
+    <band>1.0</band>
+    <density>16169417300</density>
+    <freq>880.902</freq>
+  </point>
+</densities>

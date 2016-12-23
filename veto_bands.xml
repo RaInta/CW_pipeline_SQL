@@ -1,0 +1,8 @@
+<?xml version='1.0' standalone='yes'?>
+<veto_bands>
+  <veto_band>
+    <band>0.0172222100001136</band>
+    <freq>879.99166667</freq>
+    <power>21.2517</power>
+  </veto_band>
+</veto_bands>

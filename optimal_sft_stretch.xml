@@ -1,0 +1,17 @@
+<?xml version='1.0' standalone='yes'?>
+<setup>
+  <sft>
+    <ifos>H1 L1</ifos>
+    <span_time>1800</span_time>
+  </sft>
+  <stretch>
+    <end_time>965088003</end_time>
+    <num_sfts>857</num_sfts>
+    <num_sfts_H1>484</num_sfts_H1>
+    <num_sfts_L1>373</num_sfts_L1>
+    <obs_time>771300</obs_time>
+    <span_time>1114747</span_time>
+    <start_time>963973256</start_time>
+    <weight>0.389213246779402</weight>
+  </stretch>
+</setup>
